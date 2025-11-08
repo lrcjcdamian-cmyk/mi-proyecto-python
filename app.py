@@ -14,7 +14,7 @@ st.markdown("---")
 # ----------------------------------------------------
 
 # Definición de la ruta absoluta para garantizar la carga en cualquier entorno
-RUTA_ARCHIVO = '/Users/jcdamian_mac2/mi-proyecto-python/vehicles_us.csv'
+RUTA_ARCHIVO = RUTA_ARCHIVO = 'vehicles_us.csv'
 df = None # Inicializamos el DataFrame
 
 try:
