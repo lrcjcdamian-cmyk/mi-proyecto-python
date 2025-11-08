@@ -27,6 +27,7 @@ except Exception as e:
 
 # ----------------------------------------------------
 # 3. Controles Interactivos (Casillas de Verificación)
+
 # ----------------------------------------------------
 
 st.header('Opciones de Visualización')
